@@ -1,5 +1,5 @@
 # HouseNotUnlike
-### Inform 7 source code and compiled story for <i>And Then You Come to a House Not Unlike the Previous One</i>
+<b>Inform 7 source code and compiled story for <i>And Then You Come to a House Not Unlike the Previous One</i> by B.J. Best</b>
 
 Winner, <a href="https://ifcomp.org/comp/2021">IFComp 2021</a>.  
 
